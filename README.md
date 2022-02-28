@@ -10,6 +10,8 @@ contains:
 
 Grover's algorithm is used to find the minimum value in the resulting search arrays. 
 
+Note: Currently, there is a 50:50 chance Grover's search does find a solution to the search problem, which is the lowest possible success probability. There is open potential to optimize the implementation of Grover's algorithm further. 
+
 
 # Travelling-Salesman-Problem Overview
 The travelling salesman-problem - short TSP - is a graph based optimization problem. 
