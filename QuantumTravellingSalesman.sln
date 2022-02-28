@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QuantumTravellingSalesman", ".\QuantumTravellingSalesman\QuantumTravellingSalesman.csproj", "{9C0C50A0-CAEB-4135-86CA-6EA3BBADFBCB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", ".\TestProject\TestProject.csproj", "{FCEDB7E5-8F25-45A0-AC54-B2E402212DA5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C0C50A0-CAEB-4135-86CA-6EA3BBADFBCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C0C50A0-CAEB-4135-86CA-6EA3BBADFBCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C0C50A0-CAEB-4135-86CA-6EA3BBADFBCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C0C50A0-CAEB-4135-86CA-6EA3BBADFBCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCEDB7E5-8F25-45A0-AC54-B2E402212DA5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEDB7E5-8F25-45A0-AC54-B2E402212DA5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEDB7E5-8F25-45A0-AC54-B2E402212DA5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEDB7E5-8F25-45A0-AC54-B2E402212DA5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D355388-D182-4B66-94D9-CD643F60F617}
+	EndGlobalSection
+EndGlobal
